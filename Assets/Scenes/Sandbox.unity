@@ -1733,6 +1733,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3327621996303679015, guid: c6453f8e1f814744d8b94e5a6d1f9942, type: 3}
+      propertyPath: currentWeapon
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3538617199882009111, guid: c6453f8e1f814744d8b94e5a6d1f9942, type: 3}
       propertyPath: gameOverCanvas
       value: 
