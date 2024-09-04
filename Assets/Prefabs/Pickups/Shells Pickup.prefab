@@ -180,6 +180,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2873793541057374672, guid: 118574d47e42f304785cb09113f13af6, type: 3}
+      propertyPath: m_Center.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2873793541057374672, guid: 118574d47e42f304785cb09113f13af6, type: 3}
+      propertyPath: m_Center.z
+      value: -0.25
+      objectReference: {fileID: 0}
     - target: {fileID: 5479705747396412441, guid: 118574d47e42f304785cb09113f13af6, type: 3}
       propertyPath: m_Name
       value: Shells Pickup
